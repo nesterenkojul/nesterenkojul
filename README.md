@@ -1,7 +1,8 @@
-### Top of the morning! :v:
+### :v:
 
-- I'm studying at ITMO University
-- I'm currently learning Python, JS, NodeJS, R, Django
-- Subscribe to my [Instagram](https://www.instagram.com/nesterenkojul/?hl=ru)
+- Bachelor, year 2 @ ITMO University 
+- Studying data science, data analytics. 
+- Python, R, (a bit of JS, NodeJS, Django)
+- Follow me on [Instagram](https://www.instagram.com/nesterenkojul) and [Twitter](https://www.twitter.com/nesterenkojul) (I don't really post anything)
 
-UGH, I DON'T UNDERSTAND ANYTHYNG :no_good:
+No experience at all :no_good:
