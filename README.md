@@ -5,4 +5,4 @@
 - Python, R, (a bit of JS, NodeJS, Django)
 - Follow me on [Instagram](https://www.instagram.com/nesterenkojul) (I don't really post anything)
 
-No experience at all :no_good:
+No job experience (yet) :no_good:
