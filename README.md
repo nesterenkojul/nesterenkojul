@@ -1,6 +1,6 @@
 ### :v:
 
-- Bachelor, year 3 @ ITMO University 
+- Bachelor, final year @ ITMO University 
 - Studying computer science \(data science, data analytics\)
 - Mostly Python
 - Passioned about data visualization
